@@ -14,7 +14,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone 
+Git clone https://github.com/vikakamau/vik.code2
 ```
 
 # Live Link
