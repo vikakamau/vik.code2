@@ -2,7 +2,7 @@ const solution = findprime(2,30)
 function findprime(Start, End){ //declares a prime function and shows an array between the statements
     let prime = [] //declares the array
     for ( let i= Start; i < End; i++){ // shows a for loop with start and end that iterates between the statements
-        if(isprime(i)){ // shows a callback function that for each number i called the function(isprime)that is below passing (i) as an arguement          
+        if(isprime(i)){ // shows a callback function that for each number i called the function(isprime)that is passing (i) as an arguement          
               prime.push(i) //if the function is true it returns the number to a new prime array
         }
     }
